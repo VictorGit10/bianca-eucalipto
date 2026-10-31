@@ -1,0 +1,99 @@
+{
+  "municipio": "Rio Verde",
+  "centro": [
+    -51.17,
+    -18.001
+  ],
+  "bbox": [
+    -51.260000000000005,
+    -18.091,
+    -51.08,
+    -17.911
+  ],
+  "lado_graus": 0.18,
+  "area_km2": 381.0,
+  "escala_m": 20,
+  "crs_local": "EPSG:32722",
+  "mapbiomas_ano": 2024,
+  "silvicultura_municipio_km2": 129.28964614134497,
+  "composicao": [
+    {
+      "codigo": 15,
+      "classe": "Pastagem",
+      "pct": 31.01,
+      "area_km2": 124.5
+    },
+    {
+      "codigo": 39,
+      "classe": "Soja",
+      "pct": 25.97,
+      "area_km2": 104.3
+    },
+    {
+      "codigo": 3,
+      "classe": "Formacao Florestal",
+      "pct": 16.9,
+      "area_km2": 67.9
+    },
+    {
+      "codigo": 21,
+      "classe": "Mosaico de Usos",
+      "pct": 9.57,
+      "area_km2": 38.4
+    },
+    {
+      "codigo": 9,
+      "classe": "Silvicultura",
+      "pct": 9.07,
+      "area_km2": 36.4
+    },
+    {
+      "codigo": 11,
+      "classe": "Campo Alagado e Area Pantanosa",
+      "pct": 3.97,
+      "area_km2": 15.9
+    },
+    {
+      "codigo": 33,
+      "classe": "Rio, Lago e Oceano",
+      "pct": 0.97,
+      "area_km2": 3.9
+    },
+    {
+      "codigo": 4,
+      "classe": "Formacao Savanica",
+      "pct": 0.81,
+      "area_km2": 3.3
+    },
+    {
+      "codigo": 41,
+      "classe": "Outras Lavouras Temporarias",
+      "pct": 0.71,
+      "area_km2": 2.8
+    },
+    {
+      "codigo": 20,
+      "classe": "Cana",
+      "pct": 0.67,
+      "area_km2": 2.7
+    },
+    {
+      "codigo": 12,
+      "classe": "Formacao Campestre",
+      "pct": 0.23,
+      "area_km2": 0.9
+    },
+    {
+      "codigo": 25,
+      "classe": "Outras Areas nao Vegetadas",
+      "pct": 0.11,
+      "area_km2": 0.5
+    },
+    {
+      "codigo": 46,
+      "classe": "Cafe",
+      "pct": 0.0,
+      "area_km2": 0.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+img,id,estrato,classe_mapbiomas,borda,classe_gemini,confianca,motivo
+img_01.jpg,86,pastagem,15.0,0,nao_eucalipto,0.95,Solo exposto e pastagem seca adjacente a represa dagua.
+img_02.jpg,24,eucalipto,15.0,1,nao_eucalipto,0.95,Solo exposto de lavoura agricola entre faixas de vegetacao nativa.
+img_03.jpg,42,mosaico_agua,11.0,0,nao_eucalipto,0.95,Area agricola em pousio com solo seco entre capoeiras nativas.
+img_04.jpg,14,agricultura,39.0,0,nao_eucalipto,0.95,Lavoura agricola com linhas de plantio e curvas de nivel.
+img_05.jpg,20,agricultura,39.0,0,nao_eucalipto,0.95,Cultura agricola verde vigorosa com terracos em curva de nivel.
+img_06.jpg,104,pastagem,15.0,0,nao_eucalipto,0.95,Solo exposto avermelhado em clareira delimitada por mata ciliar nativa.
+img_07.jpg,27,agricultura,20.0,0,nao_sei,0.7,Talhao geometrico com vegetacao verde clara compativel com plantio jovem de silvicultura.
+img_08.jpg,17,eucalipto,9.0,0,eucalipto,0.95,Talhao geometrico de silvicultura com dossel verde escuro e textura homogenea.
+img_09.jpg,71,pastagem,15.0,0,nao_sei,0.75,Talhao geometrico em solo exposto vizinho a eucalipto compativel com recem colhido.
+img_10.jpg,16,eucalipto,41.0,0,nao_sei,0.65,Talhao totalmente escuro sem textura visivel com resolucao insuficiente para confirmacao.
+img_11.jpg,46,pastagem,15.0,0,nao_eucalipto,0.95,Pastagem aberta ou cerrado com arvores esparsas e solo claro.
+img_12.jpg,70,mosaico_agua,11.0,1,nao_eucalipto,0.95,Mata ciliar nativa acompanhando curso dagua em meio a pastagem.
+img_13.jpg,37,eucalipto,15.0,1,nao_eucalipto,0.95,Instalacoes rurais e galpoes agropecuarios com solo adjacente.
+img_14.jpg,105,eucalipto,15.0,1,nao_eucalipto,0.95,Clareira agricola com solo exposto cercada por mata nativa.
+img_15.jpg,22,eucalipto,9.0,0,nao_eucalipto,0.95,Area de pastagem com solo seco proxima a estrada rural.
+img_16.jpg,15,mosaico_agua,21.0,1,nao_sei,0.85,Ponto no carreador estrada interna na borda do talhao de eucalipto.
+img_17.jpg,33,eucalipto,21.0,0,nao_sei,0.85,Ponto localizado exatamente na borda entre o talhao florestal e a estrada.
+img_18.jpg,45,agricultura,39.0,1,nao_eucalipto,0.95,Lavoura agricola com faixas de palhada e solo exposto.
+img_19.jpg,55,eucalipto,9.0,0,eucalipto,0.95,Talhao geometrico de eucalipto com dossel verde escuro uniforme.
+img_20.jpg,88,eucalipto,9.0,0,eucalipto,0.95,Talhao de silvicultura com dossel verde escuro continuo e homogeneo.
+img_21.jpg,13,floresta,3.0,1,nao_eucalipto,0.9,Faixa estreita de arborizacao cortina de vento entre lavouras agricolas.
+img_22.jpg,62,pastagem,15.0,1,nao_eucalipto,0.95,Pastagem e solo exposto em relevo suave proximo a drenagem.
+img_23.jpg,34,floresta,3.0,0,nao_eucalipto,0.95,Mata ciliar nativa acompanhando curso de rio meandrico do Cerrado.
+img_24.jpg,1,eucalipto,9.0,1,nao_eucalipto,0.95,Area agricola com solo exposto proxima a instalacoes de aviarios.
+img_25.jpg,47,eucalipto,9.0,0,nao_eucalipto,0.95,Corredor de vegetacao nativa e pastagem em baixada umida.
+img_26.jpg,50,floresta,3.0,0,nao_sei,0.85,Ponto exatamente na borda de transicao entre mata e solo exposto.
+img_27.jpg,19,eucalipto,9.0,0,eucalipto,0.95,Talhao geometrico de silvicultura com cobertura densa verde escuro.
+img_28.jpg,76,pastagem,15.0,1,nao_eucalipto,0.95,Pastagem com arbustos esparsos e solo avermelhado tipico de Cerrado.
+img_29.jpg,29,floresta,3.0,0,eucalipto,0.95,Talhao de silvicultura com dossel de eucalipto verde escuro homogeneo.
+img_30.jpg,69,pastagem,9.0,1,nao_eucalipto,0.95,Pastagem seca e solo com vegetacao arbustiva esparsa.

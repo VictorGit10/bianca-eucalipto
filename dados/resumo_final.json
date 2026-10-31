@@ -1,0 +1,100 @@
+{
+  "area_km2": 381.0,
+  "silvicultura_recorte_pct": 9.07,
+  "cenas_seca": 58,
+  "cenas_chuva": 48,
+  "bandas": 19,
+  "baixado_mb": 62.7,
+  "curva": {
+    "aleatorio": [
+      0.3981,
+      0.4124,
+      0.4988,
+      0.536,
+      0.5764,
+      0.6303,
+      0.6641,
+      0.6909
+    ],
+    "blocos": [
+      0.4251,
+      0.4465,
+      0.491,
+      0.5313,
+      0.5554,
+      0.5691,
+      0.5917,
+      0.6067
+    ]
+  },
+  "areas_mapa_km2": {
+    "eucalipto": 41.4,
+    "floresta": 65.7,
+    "pastagem": 118.1,
+    "agricultura": 100.4,
+    "mosaico_agua": 55.6
+  },
+  "concordancia_mapbiomas": 0.7632,
+  "pontos_validacao": 108,
+  "pontos_em_borda": 44,
+  "pct_pontos_em_borda": 40.7,
+  "exemplo_ficticio": {
+    "acuracia_global": 0.8516672312106086,
+    "area_ajustada_km2": 60.30808782615235,
+    "acuracia_global_nao_sei_como_erro": 0.852704010933563,
+    "area_ajustada_nao_sei_como_erro_km2": 56.14923103212576
+  },
+  "controles": {
+    "classificador": {
+      "acuracia_modelo": 0.7595916247396503,
+      "f1_eucalipto_modelo": 0.6575610271584065,
+      "acuracia_rotulos_embaralhados": 0.19334344128556363,
+      "acuracia_regra_boba": 0.31032112859308847,
+      "classe_mais_comum": "pastagem",
+      "veredito": "ok"
+    },
+    "estimador": {
+      "verdade_km2": 49.126999999999995,
+      "media_estimada_km2": 49.16299485456064,
+      "vies_pct": 0.07326898561003409,
+      "dp_km2": 9.69589687416155,
+      "cobertura_ic95_pct": 94.0,
+      "area_sem_correcao_km2": 41.4,
+      "erro_da_area_sem_correcao_pct": -15.728621735501857,
+      "theta_simulado": [
+        0.75,
+        0.05,
+        0.08,
+        0.02,
+        0.06
+      ],
+      "n_simulacoes": 300,
+      "veredito": "ok"
+    },
+    "filtro_de_borda": {
+      "verdade_km2": 26.898,
+      "area_crua_mapa_km2": 26.171200000000002,
+      "acuracia_global_verdadeira": 0.96190625,
+      "theta_eucalipto_no_estrato": {
+        "todos": 0.9731613376536039,
+        "puros": 1.0
+      },
+      "so_pixels_puros": {
+        "area_media_km2": 26.171200000000002,
+        "vies_area_pct": -2.702059632686435,
+        "acuracia_media": 0.9999999999999999,
+        "vies_acuracia_p_p": 3.8093749999999926,
+        "cobertura_ic95_area_pct": 0.0
+      },
+      "todo_o_estrato": {
+        "area_media_km2": 26.952746401960784,
+        "vies_area_pct": 0.20353335549403076,
+        "acuracia_media": 0.9665985874693627,
+        "vies_acuracia_p_p": 0.4692337469362706,
+        "cobertura_ic95_area_pct": 90.5
+      },
+      "repeticoes": 200,
+      "veredito": "ok"
+    }
+  }
+}

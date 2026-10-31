@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Se reutilizar este trabalho, cite como abaixo."
+title: "Do formulário ao mapa conferido — eucalipto em Goiás"
+abstract: >-
+  Quantas amostras de treino usar no Random Forest e como conferir um mapa de eucalipto (Rio Verde, GO), com página de conferência cega e teste de pré-triagem por IA.
+authors:
+  - family-names: "Amaral"
+    given-names: "Victor"
+    affiliation: "LAPIG/UFG"
+date-released: 2026-10-31
+url: "https://victorgit10.github.io/bianca-eucalipto/"
+repository-code: "https://github.com/VictorGit10/bianca-eucalipto"
+license: CC-BY-4.0
+keywords:
+  - "Random Forest"
+  - "eucalipto"
+  - "silvicultura"
+  - "validação de mapas"
+  - "Olofsson"
+  - "IA generativa"

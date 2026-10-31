@@ -1,0 +1,40 @@
+{
+  "bandas": [
+    "B2_seca",
+    "B3_seca",
+    "B4_seca",
+    "B5_seca",
+    "B6_seca",
+    "B7_seca",
+    "B8_seca",
+    "B8A_seca",
+    "B11_seca",
+    "B12_seca",
+    "NDVI_seca",
+    "NDWI_seca",
+    "NDRE_seca",
+    "NDBI_seca",
+    "NDVI_chuva",
+    "NDWI_chuva",
+    "B4_chuva",
+    "B8_chuva",
+    "B11_chuva"
+  ],
+  "n_cenas_seca": 58,
+  "n_cenas_chuva": 48,
+  "grade": [
+    954,
+    999
+  ],
+  "escala_m": 20,
+  "crs": "EPSG:32722",
+  "periodo_seca": [
+    "2024-05-01",
+    "2024-09-30"
+  ],
+  "periodo_chuva": [
+    "2024-11-01",
+    "2025-02-28"
+  ],
+  "mascara_nuvem": "Cloud Score+ cs_cdf >= 0.6"
+}

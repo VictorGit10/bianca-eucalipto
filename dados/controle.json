@@ -1,0 +1,59 @@
+{
+  "classificador": {
+    "acuracia_modelo": 0.7595916247396503,
+    "f1_eucalipto_modelo": 0.6575610271584065,
+    "acuracia_rotulos_embaralhados": 0.19334344128556363,
+    "acuracia_regra_boba": 0.31032112859308847,
+    "classe_mais_comum": "pastagem",
+    "veredito": "ok"
+  },
+  "estimador": {
+    "verdade_km2": 49.126999999999995,
+    "media_estimada_km2": 49.16299485456064,
+    "vies_pct": 0.07326898561003409,
+    "dp_km2": 9.69589687416155,
+    "cobertura_ic95_pct": 94.0,
+    "area_sem_correcao_km2": 41.4,
+    "erro_da_area_sem_correcao_pct": -15.728621735501857,
+    "theta_simulado": [
+      0.75,
+      0.05,
+      0.08,
+      0.02,
+      0.06
+    ],
+    "n_simulacoes": 300,
+    "veredito": "ok"
+  },
+  "filtro_de_borda": {
+    "verdade_km2": 26.898,
+    "area_crua_mapa_km2": 26.171200000000002,
+    "acuracia_global_verdadeira": 0.96190625,
+    "theta_eucalipto_no_estrato": {
+      "todos": 0.9731613376536039,
+      "puros": 1.0
+    },
+    "so_pixels_puros": {
+      "area_media_km2": 26.171200000000002,
+      "vies_area_pct": -2.702059632686435,
+      "acuracia_media": 0.9999999999999999,
+      "vies_acuracia_p_p": 3.8093749999999926,
+      "cobertura_ic95_area_pct": 0.0
+    },
+    "todo_o_estrato": {
+      "area_media_km2": 26.952746401960784,
+      "vies_area_pct": 0.20353335549403076,
+      "acuracia_media": 0.9665985874693627,
+      "vies_acuracia_p_p": 0.4692337469362706,
+      "cobertura_ic95_area_pct": 90.5
+    },
+    "repeticoes": 200,
+    "veredito": "ok"
+  },
+  "mapa_perfeito": {
+    "area_ajustada_km2": 41.4,
+    "area_crua_km2": 41.4,
+    "acuracia_global": 1.0
+  },
+  "veredito_geral": "todos os controles passaram"
+}

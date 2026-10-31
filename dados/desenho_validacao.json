@@ -1,0 +1,37 @@
+{
+  "se_alvo": 0.04,
+  "n_por_erro_padrao": {
+    "0.02": 430,
+    "0.03": 191,
+    "0.04": 108,
+    "0.05": 69,
+    "0.1": 18
+  },
+  "n_pontos": 108,
+  "alocacao": {
+    "eucalipto": 12,
+    "floresta": 19,
+    "pastagem": 33,
+    "agricultura": 28,
+    "mosaico_agua": 16
+  },
+  "area_estrato_km2": {
+    "eucalipto": 41.4,
+    "floresta": 65.7,
+    "pastagem": 118.1,
+    "agricultura": 100.4,
+    "mosaico_agua": 55.6
+  },
+  "area_total_km2": 381.2,
+  "ua_prior": {
+    "eucalipto": 0.607,
+    "floresta": 0.842,
+    "pastagem": 0.786,
+    "agricultura": 0.82,
+    "mosaico_agua": 0.636
+  },
+  "amostragem": "uniforme em todos os pixels do estrato (sem filtro de borda)",
+  "pontos_em_borda": 44,
+  "pct_pontos_em_borda": 40.7,
+  "pixels_puros_3x3": 530035
+}

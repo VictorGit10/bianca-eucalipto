@@ -1,0 +1,71 @@
+{
+  "silvicultura_goias_km2": 1583.5,
+  "area_goias_km2": 348540.5,
+  "areas_por_grupo_km2": {
+    "eucalipto": 1392.5,
+    "floresta": 93602.8,
+    "pastagem": 167998.6,
+    "agricultura": 66037.6,
+    "mosaico_agua": 19509.1
+  },
+  "W": {
+    "eucalipto": 0.004,
+    "floresta": 0.2686,
+    "pastagem": 0.482,
+    "agricultura": 0.1895,
+    "mosaico_agua": 0.056
+  },
+  "regioes_sugeridas": [
+    {
+      "municipio": "Rio Verde",
+      "silvicultura_km2": 129.3,
+      "area_municipio_km2": 8415.1,
+      "pct_do_municipio": 1.54,
+      "pct_do_estado": 8.2
+    },
+    {
+      "municipio": "Niquelandia",
+      "silvicultura_km2": 99.2,
+      "area_municipio_km2": 9878.8,
+      "pct_do_municipio": 1.0,
+      "pct_do_estado": 6.3
+    },
+    {
+      "municipio": "Catalao",
+      "silvicultura_km2": 96.9,
+      "area_municipio_km2": 3789.6,
+      "pct_do_municipio": 2.56,
+      "pct_do_estado": 6.1
+    }
+  ],
+  "n_por_se": {
+    "0.02": 395,
+    "0.03": 176,
+    "0.04": 99,
+    "0.05": 64
+  },
+  "alocacao_proporcional_se_003": {
+    "eucalipto": 1,
+    "floresta": 47,
+    "pastagem": 85,
+    "agricultura": 33,
+    "mosaico_agua": 10
+  },
+  "alocacao_com_piso_100_no_eucalipto": {
+    "eucalipto": 100,
+    "floresta": 47,
+    "pastagem": 85,
+    "agricultura": 33,
+    "mosaico_agua": 10
+  },
+  "n_total_com_piso": 275,
+  "se_previsto_com_piso": 0.03,
+  "prior_acuracia_usuario": {
+    "eucalipto": 0.607,
+    "floresta": 0.842,
+    "pastagem": 0.786,
+    "agricultura": 0.82,
+    "mosaico_agua": 0.636
+  },
+  "observacao": "n calculado com prior de acuracia do mapa local (Rio Verde); repita a curva antes para o prior das outras regioes"
+}

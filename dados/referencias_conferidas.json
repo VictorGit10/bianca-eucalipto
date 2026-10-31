@@ -1,0 +1,97 @@
+{
+  "conferidas_em": "2026-10-31",
+  "total": 10,
+  "ok": 10,
+  "itens": [
+    {
+      "numero": "1",
+      "doi": "10.1016/j.rse.2014.02.015",
+      "ok": true,
+      "coincidencia_titulo": 1.0,
+      "titulo_crossref": "Good practices for estimating area and assessing accuracy of land change",
+      "ano": 2014,
+      "revista": "Remote Sensing of Environment"
+    },
+    {
+      "numero": "2",
+      "doi": "10.1016/j.rse.2012.10.031",
+      "ok": true,
+      "coincidencia_titulo": 1.0,
+      "titulo_crossref": "Making better use of accuracy data in land change studies: Estimating accuracy and area and quantifying uncertainty using stratified estimation",
+      "ano": 2013,
+      "revista": "Remote Sensing of Environment"
+    },
+    {
+      "numero": "3",
+      "doi": "10.1016/j.rse.2019.05.018",
+      "ok": true,
+      "coincidencia_titulo": 1.0,
+      "titulo_crossref": "Key issues in rigorous accuracy assessment of land cover products",
+      "ano": 2019,
+      "revista": "Remote Sensing of Environment"
+    },
+    {
+      "numero": "4",
+      "doi": "10.1016/j.isprsjprs.2016.01.011",
+      "ok": true,
+      "coincidencia_titulo": 1.0,
+      "titulo_crossref": "Random forest in remote sensing: A review of applications and future directions",
+      "ano": 2016,
+      "revista": "ISPRS Journal of Photogrammetry and Remote Sensing"
+    },
+    {
+      "numero": "5",
+      "doi": "10.1016/j.rse.2016.10.010",
+      "ok": true,
+      "coincidencia_titulo": 1.0,
+      "titulo_crossref": "Assessing the robustness of Random Forests to map land cover with high resolution satellite image time series over large areas",
+      "ano": 2016,
+      "revista": "Remote Sensing of Environment"
+    },
+    {
+      "numero": "6",
+      "doi": "10.3390/rs70708489",
+      "ok": true,
+      "coincidencia_titulo": 1.0,
+      "titulo_crossref": "On the Importance of Training Data Sample Selection in Random Forest Image Classification: A Case Study in Peatland Ecosystem Mapping",
+      "ano": 2015,
+      "revista": "Remote Sensing"
+    },
+    {
+      "numero": "7",
+      "doi": "10.1111/ecog.02881",
+      "ok": true,
+      "coincidencia_titulo": 1.0,
+      "titulo_crossref": "Cross‐validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure",
+      "ano": 2017,
+      "revista": "Ecography"
+    },
+    {
+      "numero": "8",
+      "doi": "10.3390/rs12172735",
+      "ok": true,
+      "coincidencia_titulo": 1.0,
+      "titulo_crossref": "Reconstructing Three Decades of Land Use and Land Cover Changes in Brazilian Biomes with Landsat Archive and Earth Engine",
+      "ano": 2020,
+      "revista": "Remote Sensing"
+    },
+    {
+      "numero": "9",
+      "doi": "10.14393/rbcv72n1-50477",
+      "ok": true,
+      "coincidencia_titulo": 1.0,
+      "titulo_crossref": "Multi-source remote sensing data improves the classification accuracy of natural forests and eucalyptus plantations",
+      "ano": 2020,
+      "revista": "Revista Brasileira de Cartografia"
+    },
+    {
+      "numero": "10",
+      "doi": "10.5380/rf.v51i2.65087",
+      "ok": true,
+      "coincidencia_titulo": 1.0,
+      "titulo_crossref": "LOCATION OF PLANTED FOREST INFLUENCING THE WOOD COMMERCIALIZATION IN THE STATE OF GOIAS, BRAZIL",
+      "ano": 2021,
+      "revista": "FLORESTA"
+    }
+  ]
+}

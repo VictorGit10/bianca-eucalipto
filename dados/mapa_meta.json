@@ -1,0 +1,58 @@
+{
+  "n_por_classe": 1600,
+  "n_treino": 8000,
+  "classes": [
+    "eucalipto",
+    "floresta",
+    "pastagem",
+    "agricultura",
+    "mosaico_agua"
+  ],
+  "area_total_km2": 381.2,
+  "area_por_classe_mapa_km2": {
+    "eucalipto": 41.4,
+    "floresta": 65.7,
+    "pastagem": 118.1,
+    "agricultura": 100.4,
+    "mosaico_agua": 55.6
+  },
+  "concordancia_com_mapbiomas": 0.7632,
+  "matriz_mapa_x_mapbiomas": [
+    [
+      62786,
+      3563,
+      15447,
+      10400,
+      11250
+    ],
+    [
+      2679,
+      138276,
+      4254,
+      1565,
+      17546
+    ],
+    [
+      10890,
+      4040,
+      232120,
+      36899,
+      11295
+    ],
+    [
+      2973,
+      1741,
+      27549,
+      205731,
+      13004
+    ],
+    [
+      6830,
+      21378,
+      16406,
+      5967,
+      88457
+    ]
+  ],
+  "aviso": "concordancia com o MapBiomas nao e acuracia (mesma fonte de rotulos)"
+}
