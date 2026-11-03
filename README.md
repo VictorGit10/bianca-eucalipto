@@ -5,13 +5,14 @@
 Encontro individual do Estágio Docência · LAPIG/UFG · 03/11/2026.
 
 - **Ver a página:** <https://victorgit10.github.io/bianca-eucalipto/>
+- **Abrir a ferramenta de conferência:** <https://victorgit10.github.io/bianca-eucalipto/conferencia/>
 - **Repositório:** <https://github.com/VictorGit10/bianca-eucalipto>
 
 ![Prévia da página](assets/previa.png)
 
 ## O que tem aqui
 
-- **`index.html`**: a página do encontro. Começa pela resposta ao formulário e mostra o que a IA generativa fez com ela: a entrada, a primeira saída, os controles, o resultado e o que isso mostra. Funciona offline (imagens embutidas).
+- **`index.html`**: a página do encontro. Começa pela resposta ao formulário e mostra o que a IA generativa fez com ela: a entrada, a primeira saída, os controles, o resultado, o que foi gerado, a ferramenta de conferência, como isso ajuda e as ressalvas. Funciona offline (imagens embutidas).
 - **O pacote** (`codigo/`, `dados/`, `figuras/`, `RELATORIO.md`, `REFERENCIAS.md`): o trabalho completo, executado de ponta a ponta. Todos os números saem dos scripts. Instruções abaixo.
 - **`CLAUDE.md` e `AGENTS.md`**: o contexto para a IA que for continuar o trabalho.
 - **`docs/revisoes/`**: o caminho do trabalho, para quem quiser auditar: o formulário (`CONTEXTO.md`), o pedido dado ao agente (`PEDIDO.md`, `REGRAS-COMUNS.md`), as correções pedidas (`CORRECOES*.md`) e a conferência independente de outro modelo (`CONFERENCIA-MINIMAX.md`).
